@@ -1,4 +1,4 @@
-"use client";
+"use client"
 
 const PostInteractions = () => {
   return (
@@ -79,7 +79,7 @@ const PostInteractions = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default PostInteractions;
+export default PostInteractions
